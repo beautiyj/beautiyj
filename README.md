@@ -18,10 +18,16 @@
 ### > [Github] helloworld 레파지토리와 링크 연결하기 <
 (https://beautiyj.github.io/helloworld)
 <br>
+
+
+
 ## 실습 (25nnnn)
 ### > [데이터 시각화] 주피터 노트북 & 파이썬 예제 <
 <img src="실습3_주피터노트북CSV_제주+그래프_250708.png"/>
 <br>
+
+
+
 ## 실습 (25nnnn)
 ### > [데이터 시각화] 주피터 노트북 & 파이썬 예제 <
 [실습](/4조김윤정_실습12제출용.ipynb)
