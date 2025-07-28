@@ -12,27 +12,25 @@
 	+ 비트컴퓨터_AIoT 과정
 	+ Python, Kotlin, Github, Django etc
 
-<br>
+<br><br>
 
 ## 실습 (250728)
 ### > [Github] helloworld 레파지토리와 링크 연결하기 <
 (https://beautiyj.github.io/helloworld)
-<br>
 
-
+<br><br><br>
 
 ## 실습 (25nnnn)
 ### > [데이터 시각화] 주피터 노트북 & 파이썬 예제 <
 <img src="실습3_주피터노트북CSV_제주+그래프_250708.png"/>
-<br>
 
-
+<br><br><br>
 
 ## 실습 (25nnnn)
 ### > [데이터 시각화] 주피터 노트북 & 파이썬 예제 <
 [실습](/4조김윤정_실습12제출용.ipynb)
 
-<br>
+<br><br><br>
 
 ## 미니 프로젝트
 ### [미니 프로젝트] 기간 n/n~n/n
@@ -49,7 +47,7 @@
 +
 ***
 
-<br>
+<br><br><br>
 
 ## 팀 프로젝트
 ### [팀 프로젝트] 기간 n/n~n/n
