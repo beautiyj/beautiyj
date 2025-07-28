@@ -16,7 +16,7 @@
 
 ## 실습 (250728)
 ### > [Github] helloworld 레파지토리와 링크 연결하기 <
-(https://beautiyj.github.io/helloworld)
+[링크](https://beautiyj.github.io/helloworld)
 
 <br><br><br>
 
