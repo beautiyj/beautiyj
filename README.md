@@ -2,10 +2,10 @@
 
 ## ✉️
 * Email : beautiyj@naver.com
-* [Youtube](https://www.youtube.com/@%EB%8C%80%EC%82%B4%EC%9D%B4%EC%9D%98%ED%95%98%EB%A3%A8)
-* [Naver blog](https://blog.naver.com/beautiyj)
-* [instagram](https://www.instagram.com/beautiyj)
-* [X(twitter)](https://x.com/char_ming_xoxo?t=v48kbu3QYkA33QK-GLUYCg&s=09)
+* [Youtube](https://www.youtube.com/)
+* [Naver blog](https://section.blog.naver.com/BlogHome.naver?directoryNo=0&currentPage=1&groupId=0)
+* [instagram](https://www.instagram.com)
+* [X(twitter)](https://x.com)
   
 ## 🐾
 * 새싹캠퍼스 용산
