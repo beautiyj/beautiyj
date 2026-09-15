@@ -7,7 +7,26 @@
 * **Naver Blog:** [Blog](https://blog.naver.com/beautiyj)
 * **Instagram:** [Instagram](https://www.instagram.com/beautiyj)
 * **X(Twitter):** [X](https://twitter.com/char_ming_xoxo?t=v48kbu3QYkA33QK-GLUYCg&s=09)
-  
+
+## 🛠️ Skill Set
+
+* **Frontend**
+  + **Framework / Library:** React 18 (Vite 6, React Router DOM, TanStack Query, Zustand, Tailwind CSS), Android Compose (Kotlin, Camera2 API)
+  + **Language:** JavaScript (ES6+, JSX), Kotlin
+
+* **Backend**
+  + **Framework:** Spring Boot (Spring Data JPA, QueryDSL, Spring Security, Spring Task Scheduling, AOP, Springdoc OpenAPI)
+  + **Language & Tool:** Java 17, Python, Django, Gradle
+
+* **AI & Vector / Vision**
+  + **AI Framework:** Spring AI (Ollama 기반 LLM / RAG 연동)
+  + **Computer Vision:** OpenCV, MediaPipe (21포인트 관절 랜드마크 및 제스처 인식), PyTorch *(기초 활용)*
+  + **Database & Vector Engine:** PostgreSQL (pgvector 코사인 유사도 연산), MySQL, SQLite3, Oracle
+
+* **Infrastructure & DevTools**
+  + **CI/CD & DevOps:** Docker, Docker Compose, GitHub Actions (CI 자동화 및 품질 검증), Linux (Ubuntu), WSL2
+  + **Collaboration & Tools:** Git / GitHub, Notion, Jira, Figma, IntelliJ IDEA, PyCharm, DataGrip, DBeaver, VS Code, Postman, Swagger
+
 ## 🐾 Education & Background
 * **중앙정보처리학원 이대캠퍼스** 2026.03 ~ 2026.09
   + 클라우드 기반 프론트엔드&백엔드 자바(JAVA) 풀스택 개발자 취업 캠프 9기
