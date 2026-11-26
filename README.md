@@ -49,6 +49,7 @@
 
 [개인 프로젝트 Github AI Planner: Django, Github Oauth, AI API를 활용해 아이디어부터 마일스톤, 깃허브 레포지토리와 커밋 내역 분석까지 모두 연동한 자동화 AI 플래너 웹 사이트] (https://github.com/beautiyj/github-ai-planner)<br>
 [개인 프로젝트 HandPoseAI: Android Compose, MediaPipe와 3D SceneView를 활용해 실시간 컴퓨터 비전 기반의 손동작 추적-3D 렌더링하는 안드로이드 앱] (https://github.com/beautiyj/HandPoseAi)<br>
+[개인 프로젝트: Spring Boot, Redis, Resilience4j를 활용해 동시성 제어·멱등성 보장과 외부 장애 격리·재처리를 구현, 검증하는 선착순 쿠폰 발급·정산 실습 웹 프로젝트 ] (https://github.com/beautiyj/coupon-settlement-lab)<br>
 
 
 ---
