@@ -42,13 +42,13 @@
 <br><br>
 
 ## 프로젝트 요약
-[팀 프로젝트 폴라리스: Spring AI LLM, SpringBoot, React 학사 통합 웹 프로젝트] (https://github.com/beautiyj/Wiza-Project)
-[팀 프로젝트 MyRhythm: Rag LLM, Android Compose, BE, AIoT 디바이스를 병합한 헬스케어 안드로이드 앱 프로젝트] (https://github.com/beautiyj/MyRhythm_Project)
-[팀 프로젝트 갈래말래: SpringBoot, Resilience4j, 공공데이터 API 활용한 여행 통합 커뮤니티 웹 프로젝트] (https://github.com/beautiyj/travel-community)
-[팀 프로젝트 Dusty Shop: Django, AJAX를 활용해 AWS 배포를 마친 실시간 경매 쇼핑몰 웹사이트 / 3일 미니 프로젝트] (https://github.com/beautiyj/mini_project)
+[팀 프로젝트 폴라리스: Spring AI LLM, SpringBoot, React 학사 통합 웹 프로젝트] (https://github.com/beautiyj/Wiza-Project)<br>
+[팀 프로젝트 MyRhythm: Rag LLM, Android Compose, BE, AIoT 디바이스를 병합한 헬스케어 안드로이드 앱 프로젝트] (https://github.com/beautiyj/MyRhythm_Project)<br>
+[팀 프로젝트 갈래말래: SpringBoot, Resilience4j, 공공데이터 API 활용한 여행 통합 커뮤니티 웹 프로젝트] (https://github.com/beautiyj/travel-community)<br>
+[팀 프로젝트 Dusty Shop: Django, AJAX를 활용해 AWS 배포를 마친 실시간 경매 쇼핑몰 웹사이트 / 3일 미니 프로젝트] (https://github.com/beautiyj/mini_project)<br><br>
 
-[개인 프로젝트 Github AI Planner: Django, Github Oauth, AI API를 활용해 아이디어부터 마일스톤, 깃허브 레포지토리와 커밋 내역 분석까지 모두 연동한 자동화 AI 플래너 웹 사이트] (https://github.com/beautiyj/github-ai-planner)
-[개인 프로젝트 HandPoseAI: Android Compose, MediaPipe와 3D SceneView를 활용해 실시간 컴퓨터 비전 기반의 손동작 추적-3D 렌더링하는 안드로이드 앱] (https://github.com/beautiyj/HandPoseAi)
+[개인 프로젝트 Github AI Planner: Django, Github Oauth, AI API를 활용해 아이디어부터 마일스톤, 깃허브 레포지토리와 커밋 내역 분석까지 모두 연동한 자동화 AI 플래너 웹 사이트] (https://github.com/beautiyj/github-ai-planner)<br>
+[개인 프로젝트 HandPoseAI: Android Compose, MediaPipe와 3D SceneView를 활용해 실시간 컴퓨터 비전 기반의 손동작 추적-3D 렌더링하는 안드로이드 앱] (https://github.com/beautiyj/HandPoseAi)<br>
 
 
 ---
